@@ -1,0 +1,32 @@
+{
+  "name": "broveloper_backend",
+  "version": "1.0.0",
+  "description": "(Node JS Backend website project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/head-broveloper/broveloper_backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "js",
+    "webserver",
+    "website",
+    "backend",
+    "broveloper"
+  ],
+  "author": "Tyler McClain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/head-broveloper/broveloper_backend/issues"
+  },
+  "homepage": "https://github.com/head-broveloper/broveloper_backend#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "express": "^4.17.1"
+  }
+}
